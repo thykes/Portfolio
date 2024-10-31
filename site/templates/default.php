@@ -1,1 +1,1 @@
-<h1><?= $page->title() ?> what now</h1>
+<h1><?= $page->title() ?></h1>

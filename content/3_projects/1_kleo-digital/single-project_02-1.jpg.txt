@@ -1,0 +1,25 @@
+Caption: asdf
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: G5ajpzw2fzTEfAEh
+
+----
+
+Template: blocks/image

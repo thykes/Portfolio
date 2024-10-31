@@ -1,0 +1,31 @@
+title: Home
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      fields:
+        type: fields
+        fields:
+          Youtube:
+            label: YouTube
+            type: url
+          Instagram:
+            label: LinkedIn
+            type: url
+          Twitter:
+            label: Twitter
+            type: url
+          Text:
+            type: textarea
+            size: small
+
+  sidebar:
+    width: 1/3
+    sections:
+      pages:
+        type: pages
+        template: default
+      files:
+        type: files
+      
